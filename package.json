@@ -1,0 +1,12 @@
+{
+  "name": "bone-a-kite",
+  "theme": "syntax",
+  "version": "0.0.2",
+  "private": true,
+  "description": "A bone-a-kite theme",
+  "repository": "https://github.com/weblancaster/atom-bone-a-kite-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
